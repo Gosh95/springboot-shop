@@ -1,0 +1,3 @@
+[submodule "shop-submodule"]
+	path = shop-submodule
+	url = https://github.com/Gosh95/shop-submodule.git
